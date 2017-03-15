@@ -13,7 +13,7 @@ namespace NsbSubscriber
         static void Main(string[] args)
         {
             BusConfiguration busConfigurationObject = new BusConfiguration();
-            busConfigurationObject.EndpointName("Nsb.NserviceBus.Subscriber");
+            busConfigurationObject.EndpointName("Nsb.NsbSubscriber");
             busConfigurationObject.UseSerialization<JsonSerializer>();
             busConfigurationObject.EnableInstallers();
             busConfigurationObject.UsePersistence<InMemoryPersistence>();
@@ -24,6 +24,8 @@ namespace NsbSubscriber
                 Console.ReadKey();
             }
         }
+
+       
     }
 
 

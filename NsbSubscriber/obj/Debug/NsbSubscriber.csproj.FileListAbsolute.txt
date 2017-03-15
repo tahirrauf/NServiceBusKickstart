@@ -9,3 +9,14 @@ c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\
 c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NServiceBus.Core.xml
 c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.exe
 c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NsbSubscriber.exe.config
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.exe
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NsbSubscriber.exe
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NsbSubscriber.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NsbMessagesLibrary.dll
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NServiceBus.Core.dll
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NsbMessagesLibrary.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NServiceBus.Core.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\bin\Debug\NServiceBus.Core.xml
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.csprojResolveAssemblyReference.cache

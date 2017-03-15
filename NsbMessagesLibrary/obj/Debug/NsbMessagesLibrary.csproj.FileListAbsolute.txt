@@ -6,3 +6,11 @@ c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLib
 c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\bin\Debug\NServiceBus.Core.xml
 c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.dll
 c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\bin\Debug\NsbMessagesLibrary.dll
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\bin\Debug\NsbMessagesLibrary.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\bin\Debug\NServiceBus.Core.dll
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\bin\Debug\NServiceBus.Core.pdb
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\bin\Debug\NServiceBus.Core.xml
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.dll
+C:\Users\tahir\Desktop\NSB\NServiceBusKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.pdb

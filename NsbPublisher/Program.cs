@@ -13,7 +13,7 @@ namespace NsbPublisher
         static void Main(string[] args)
         {
             BusConfiguration busConfigurationObject = new BusConfiguration();
-            busConfigurationObject.EndpointName("nsb.ServiceBus.Publisher");
+            busConfigurationObject.EndpointName("Nsb.NsbPublisher");
             busConfigurationObject.UseSerialization<JsonSerializer>();
             busConfigurationObject.UsePersistence<InMemoryPersistence>();
             busConfigurationObject.EnableInstallers();
