@@ -1,0 +1,11 @@
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NsbPublisher.exe.config
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NsbPublisher.exe
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NsbPublisher.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NsbMessagesLibrary.dll
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NServiceBus.Core.dll
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NsbMessagesLibrary.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NServiceBus.Core.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\bin\Debug\NServiceBus.Core.xml
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\obj\Debug\NsbPublisher.csprojResolveAssemblyReference.cache
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\obj\Debug\NsbPublisher.exe
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbPublisher\obj\Debug\NsbPublisher.pdb

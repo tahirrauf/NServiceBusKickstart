@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NsbPublisher", "NsbPublisher\NsbPublisher.csproj", "{3E9888E1-5E51-41DA-ACF6-1697D4CF0F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NsbSubscriber", "NsbSubscriber\NsbSubscriber.csproj", "{BBF8EFB6-63D2-4A0A-9A4E-22861A77B778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NsbMessagesLibrary", "NsbMessagesLibrary\NsbMessagesLibrary.csproj", "{EFA4855D-AA99-4509-ABF7-11884BC1A234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9888E1-5E51-41DA-ACF6-1697D4CF0F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9888E1-5E51-41DA-ACF6-1697D4CF0F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9888E1-5E51-41DA-ACF6-1697D4CF0F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9888E1-5E51-41DA-ACF6-1697D4CF0F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF8EFB6-63D2-4A0A-9A4E-22861A77B778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF8EFB6-63D2-4A0A-9A4E-22861A77B778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF8EFB6-63D2-4A0A-9A4E-22861A77B778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF8EFB6-63D2-4A0A-9A4E-22861A77B778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA4855D-AA99-4509-ABF7-11884BC1A234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA4855D-AA99-4509-ABF7-11884BC1A234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA4855D-AA99-4509-ABF7-11884BC1A234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA4855D-AA99-4509-ABF7-11884BC1A234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

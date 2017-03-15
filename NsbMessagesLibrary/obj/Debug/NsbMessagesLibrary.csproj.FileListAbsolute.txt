@@ -1,0 +1,8 @@
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.csprojResolveAssemblyReference.cache
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\bin\Debug\NsbMessagesLibrary.dll
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\bin\Debug\NsbMessagesLibrary.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\bin\Debug\NServiceBus.Core.dll
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\bin\Debug\NServiceBus.Core.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\bin\Debug\NServiceBus.Core.xml
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.dll
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbMessagesLibrary\obj\Debug\NsbMessagesLibrary.pdb

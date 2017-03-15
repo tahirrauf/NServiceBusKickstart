@@ -1,0 +1,11 @@
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NsbSubscriber.exe.config
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.csprojResolveAssemblyReference.cache
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NsbSubscriber.exe
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NsbSubscriber.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NsbMessagesLibrary.dll
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NServiceBus.Core.dll
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NsbMessagesLibrary.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NServiceBus.Core.pdb
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\bin\Debug\NServiceBus.Core.xml
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.exe
+c:\users\tahir\documents\visual studio 2013\Projects\NSBKickstart\NsbSubscriber\obj\Debug\NsbSubscriber.pdb
